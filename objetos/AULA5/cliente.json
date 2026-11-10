@@ -1,0 +1,79 @@
+{
+    "nome": "Anitta",
+    "idade": 33,
+    "email": "Anitta@firma.com",
+    "telefone": ["4255555444", "42999885544"],
+    "endereco":{
+    "rua": "R. XV de Novembro",
+    "numero": 350,
+    "apartamento": true,
+    "complemento": "ap 1111"
+}
+
+{
+
+    "nome": "Neymar JR",
+    "idade": 35,
+    "email": "Neymarjr@firma.com",
+    "telefone": ["4255555444", "42999885544"],
+    "endereco":{
+    "rua": "R. XV de Novembro",
+    "numero": 350,
+    "apartamento": true,
+    "complemento": "ap 1111"
+}
+
+{
+    "nome": "koichi yamadera",
+    "idade": 65,
+    "email": "koichi@firma.com",
+    "telefone": ["4255555444", "42999885544"],
+    "endereco":{
+    "rua": "R. XV de Novembro",
+    "numero": 350,
+    "apartamento": true,
+    "complemento": "ap 1111"
+}
+}
+
+
+{
+    "nome": "gisele bundchem",
+    "idade": 46,
+    "email": "gisele@firma.com",
+    "telefone": ["4255555444", "42999885544"],
+    "endereco":{
+    "rua": "R. XV de Novembro",
+    "numero": 350,
+    "apartamento": true,
+    "complemento": "ap 1111"
+}
+}
+
+
+{
+    "nome": "wagner moura",
+    "idade": ,
+    "email": "wagner@firma.com",
+    "telefone": ["4255555444", "42999885544"],
+    "endereco":{
+    "rua": "R. XV de Novembro",
+    "numero": 350,
+    "apartamento": true,
+    "complemento": "ap 1111"
+}
+}
+
+
+{
+    "nome": "wagner moura",
+    "idade": 50,
+    "email": "wagner@firma.com",
+    "telefone": ["4255555444", "42999885544"],
+    "endereco":{
+    "rua": "R. XV de Novembro",
+    "numero": 350,
+    "apartamento": true,
+    "complemento": "ap 1111"
+}
+}
